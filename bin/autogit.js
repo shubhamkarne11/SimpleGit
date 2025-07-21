@@ -5,7 +5,7 @@ import ora from 'ora';
 import { askSetup, loadConfig } from '../lib/config.js';
 import { initGitRepo, commitAndPushChanges } from '../lib/gitUtils.js';
 import startWatcher from '../lib/watcher.js';
-//
+//hello bro 
 console.clear();
 console.log(chalk.cyan.bold('⚡ AutoGit CLI – GitHub Auto Commit & Push'));
 
